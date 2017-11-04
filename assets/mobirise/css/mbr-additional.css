@@ -477,6 +477,12 @@ h6,
 #msg-box8-g p {
   color: #fff;
 }
+#msg-box8-g .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-g .lead P {
+  color: #ffffff;
+}
 #header6-2 .mbr-section-title {
   color: #28262b;
   font-size: 24px;
