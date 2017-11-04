@@ -100,7 +100,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -115,7 +115,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -166,7 +166,7 @@
           },
           "title": "Wspólnota <br>Promień Chwały",
           "text": "Śpiewem wielbimy Boga!&nbsp;<br>Zapraszamy do wspólnej modlitwy.<br>Uwielbisz z nami?",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header2-1\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
@@ -305,8 +305,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "ŚPIEWEM UWIELBIAJ Z NAMI",
-          "text": "<p>Nagrania video z modlitwy.&nbsp;<br><span style=\"font-size: 1.07rem;\">Promień Chwały!</span></p>",
+          "title": "UWIELBIAJ Z NAMI ŚPIEWEM",
+          "text": "<p>Nagrania VIDEO z modlitwy.&nbsp;<br><span style=\"font-size: 1.07rem;\">Promień Chwały!</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -888,7 +888,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -903,7 +903,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
           "_tags": [
             "Theme"
           ],
