@@ -294,7 +294,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -302,8 +302,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
           },
           "title": "ŚPIEWEM UWIELBIAJ Z NAMI",
           "text": "<p>Nagrania video z modlitwy.&nbsp;<br><span style=\"font-size: 1.07rem;\">Promień Chwały!</span></p>",
