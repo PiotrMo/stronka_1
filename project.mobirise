@@ -623,9 +623,9 @@
             "showImages": false,
             "showName": true,
             "showBio": false,
-            "count": "6",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "count": "3",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
@@ -673,48 +673,6 @@
               "authorName": "Anna S.",
               "authorBio": "User",
               "text": "<p>“Piękna uczta duchowa w cudownym miejscu:-)”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              }
-            },
-            {
-              "authorName": "John Smith",
-              "authorBio": "Developer",
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -784,7 +742,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Sanktuarium Jana Pawła 2",
+          "title": "Sanktuarium Jana Pawła II",
           "text": "W Krakowie na Białych Morzach. Kraków, ul. Totus Tuus 32",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-11\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCE</a>",
           "_tags": [
@@ -799,7 +757,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Cztery, pięc razy do roku, zapraszamy na wspólną modlitwę do Świętego Jana Pawła 2.<br>W Sanktuarium razem z Księdzem Janem i Siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.<br>Najbliższe nabożeństwa:</p><p>&nbsp; &nbsp; - ... luty 2018</p><p>&nbsp; &nbsp; - ... kwiecień 2018</p><p>&nbsp; &nbsp; - ... czerwiec 2018<br></p></blockquote>",
+          "text": "<blockquote><p>Cztery, pięc razy do roku, w sobotnie popołudnie, zapraszamy na wspólną modlitwę do Świętego Jana Pawła II.<br>W Sanktuarium razem z Księdzem Janem Reczkiem i Siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.<br>Msza Święta rozpoczyna się o godz. 17:00, zaś nabożeństwo i uwielbienie jest bezpośrednio po Mszy świętej.<br>Zapraszamy kilka chwil wcześniej na wspólną modlitwę śpiewem!</p><p><br>Najbliższe nabożeństwa:</p><p>&nbsp; &nbsp; - ... luty 2018</p><p>&nbsp; &nbsp; - ... kwiecień 2018</p><p>&nbsp; &nbsp; - ... czerwiec 2018<br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -865,7 +823,7 @@
           },
           "title": "Parafia MB Pocieszenia",
           "text": "Pallotyni, Kraków ul. Bulwarowa 15a",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCEJ<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-15\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCEJ<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -891,7 +849,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-x\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?<br></a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-x\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?<br></a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2017/11/04/msza-z-modlitwa-o-uzdrowienie-kanal-2/\" data-toolbar=\"-mbrBtnMove\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
           "_tags": [
             "Theme"
           ],
