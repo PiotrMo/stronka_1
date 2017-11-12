@@ -198,7 +198,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/xjan-1-600x336.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2021-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -209,7 +209,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/s.stasia-4-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/xjan5-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -220,10 +220,13 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s.stasia2-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -250,15 +253,15 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title1": "Promień Chwały",
+          "subtitle1": "Posługa Uwielbienia - Kim jesteśmy?",
+          "caption1": "Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem a nade wszystko sercem....",
+          "title2": "Ksiądz Jan Reczek",
+          "subtitle2": "Nasz opikun duchowy",
+          "caption2": "Ksiądz Jan Reczek jest cenionym rekolekcjonistą i kaznodzieją.&nbsp;<br>W swoich licznych inicjatywach duszpasterskich towarzyszy ludziom poszukującym pokoju, uzdrowienia, rozeznania...",
+          "title3": "Grupa modlitewna",
+          "subtitle3": "Wsparcie modlitwą i Służba Liturgiczna",
+          "caption3": "Ksiądz Jan wraz Siostrą Stasią<br>(panią Stanisławą Dąbrowską), osobą świecką obdarzoną obficie przez Ducha Świętego charyzmatem poznania, a także osobami ze wspólnoty \"Misericordia\", posługuje modlitwą wstawienniczą. &nbsp;Prowadzi takzę weekendowe rekolekcje uzdrowienia wewnętrznego...&nbsp;",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -586,7 +589,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -949,7 +952,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!",
+          "text": "JEŚLI CHCESZ, PODAJ DALEJ",
           "_tags": [
             "Theme"
           ],
