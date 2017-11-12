@@ -254,17 +254,17 @@
             }
           },
           "title1": "Promień Chwały",
-          "subtitle1": "Posługa Uwielbienia - Kim jesteśmy?",
-          "caption1": "Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem a nade wszystko sercem....",
+          "subtitle1": "Posługa uwielbienia - kim jesteśmy?",
+          "caption1": "Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem...",
           "title2": "Ksiądz Jan Reczek",
-          "subtitle2": "Nasz opikun duchowy",
-          "caption2": "Ksiądz Jan Reczek jest cenionym rekolekcjonistą i kaznodzieją.&nbsp;<br>W swoich licznych inicjatywach duszpasterskich towarzyszy ludziom poszukującym pokoju, uzdrowienia, rozeznania. Jest autorem licznych publikacji, jest też członkiem rady programowej miesięcznika \"Egzorcysta\" - czasopisma podejmującego temat zagrożeń duchowych",
+          "subtitle2": "Nasz opiekun duchowy",
+          "caption2": "Ksiądz Jan Reczek jest cenionym rekolekcjonistą i kaznodzieją.&nbsp;<br>W swoich licznych inicjatywach duszpasterskich towarzyszy ludziom poszukującym pokoju, uzdrowienia, rozeznania. Jest autorem licznych publikacji oraz członkiem rady programowej miesięcznika \"Egzorcysta\" - czasopisma podejmującego temat zagrożeń duchowych...",
           "title3": "Grupa modlitewna",
-          "subtitle3": "Wsparcie modlitwą i Służba Liturgiczna",
-          "caption3": "Ksiądz Jan wraz Siostrą Stasią<br>(panią Stanisławą Dąbrowską), osobą świecką obdarzoną obficie przez Ducha Świętego charyzmatem poznania, a także osobami ze wspólnoty \"Misericordia\", posługuje modlitwą wstawienniczą. &nbsp;Prowadzi takzę weekendowe rekolekcje uzdrowienia wewnętrznego...&nbsp;",
+          "subtitle3": "Modlitwa wstawiennicza<br> i Służba Liturgiczna",
+          "caption3": "Ksiądz Jan wraz z Siostrą Stasią<br>(panią Stanisławą Dąbrowską), osobą świecką obdarzoną obficie przez Ducha Świętego charyzmatem poznania, a także członkami krakowskich wspólnot \"Misericordia\" oraz \"Przemienienie\", posługują modlitwą wstawienniczą. &nbsp;Ksiądz Jan prowadzi także weekendowe rekolekcje uzdrowienia wewnętrznego...&nbsp;",
           "title4": "Publikacje",
-          "subtitle4": "Modlitwy i wydawnictwa",
-          "caption4": "W tym dziale, chemy podzielić się z Wami informacjami i aktualnościami o publikacjach i artykułach Księdza Jana Reczka i Wspólnoty.<br>Tu również znajdziemy modlitwy w których przyzywamy błogosławieństwa z użyciem wody (soli) egzorcyzmowanej.<br>I inne modlitwy...",
+          "subtitle4": "Teksty modlitw i wydawnictwa",
+          "caption4": "W tym dziale znajdziesz, Drogi Czytelniku, aktualne informacje na temat publikacji, artykułów, spotkań oraz posługi księdza Jana Reczka i Wspólnoty.<br>Tutaj znajdziesz również teksty modlitw, w których przyzywamy błogosławieństwa z użyciem wody, (soli) egzorcyzmowanej, a także inne pożyteczne teksty...",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -374,7 +374,7 @@
             }
           },
           "title": "Jezus mą miłością jest",
-          "text": "Wspólne uwielbienie podczas Mszy Św wraz z modlitwą o uzdrowienie<br>Sanktuarium JPII w Krakowie",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie - Sanktuarium JPII w Krakowie",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "_tags": [
             "Theme"
@@ -432,7 +432,7 @@
             }
           },
           "title": "Stworzycielu Duchu przyjdź",
-          "text": "Wspólne uwielbienie podczas Mszy Św wraz z modlitwą o uzdrowienie \n<br>Sanktuarium JPII w Krakowie.",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie<br> i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "_tags": [
             "Theme"
@@ -490,7 +490,7 @@
             }
           },
           "title": "Jezu jesteś tu",
-          "text": "Wspólne uwielbienie podczas Mszy Św wraz z modlitwą o uzdrowienie\n<br>Sanktuarium JPII w Krakowie",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
@@ -647,7 +647,7 @@
             {
               "authorName": "Monika J.",
               "authorBio": "User",
-              "text": "<p>“Coś pięknego niesamowite przeżycie .Warto było uczestniczyć w Tej Mszy Świętej i Nabożeństwie😊”</p>",
+              "text": "<p>\"Coś pięknego, niesamowite przeżycie. Warto było uczestniczyć w tej Mszy Świętej i Nabożeństwie😊\"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -661,7 +661,7 @@
             {
               "authorName": "Małgorzata R.",
               "authorBio": "User",
-              "text": "<p>“Uczestniczyłam w Tej Mszy Św. i Nabożeństwie 😊 jestem pod ogromnym wrażeniem. ... 2 i pół godziny minęło niepostrzeżenie! Cudowna atmosfera modlitwy a ks. Jana Reczka można tak słuchać nieustannie... instrumenty muzyczne plus cały zespół wokalny wprowadzają niesamowity nastrój modlitwy i powodują, że chce się tam być, modlić i śpiewać.... chwalić Boga można na różne sposoby ale śpiewaniem ma szczególny urok. Było PIĘKNIE  😊 Dziękuję 😊 ... Jak dobrze, że to mój Kraków ma Takie wyjątkowe miejsce jakim jest Sanktuarium 😊.”</p>",
+              "text": "<p>\"Uczestniczyłam w tej Mszy Św. i Nabożeństwie 😊 jestem pod ogromnym wrażeniem. ...2 i pół godziny minęło niepostrzeżenie! Cudowna atmosfera modlitwy, a ks. Jana Reczka można tak słuchać nieustannie... Instrumenty muzyczne plus cały zespół wokalny wprowadzają niesamowity nastrój modlitwy i powodują, że chce się tam być, modlić i śpiewać... Chwalić Boga można na różne sposoby, ale śpiewanie ma szczególny urok. Było PIĘKNIE  😊 Dziękuję 😊 ... Jak dobrze, że to mój Kraków ma takie wyjątkowe miejsce, jakim jest Sanktuarium 😊.\"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -675,7 +675,7 @@
             {
               "authorName": "Anna S.",
               "authorBio": "User",
-              "text": "<p>“Piękna uczta duchowa w cudownym miejscu:-)”</p>",
+              "text": "<p>\"Piękna uczta duchowa w cudownym miejscu:-)\"</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -746,8 +746,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Sanktuarium Jana Pawła II",
-          "text": "W Krakowie na Białych Morzach. Kraków, ul. Totus Tuus 32",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-11\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCE</a>",
+          "text": "Na Białych Morzach - Kraków, ul. Totus Tuus 32",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-11\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
@@ -760,7 +760,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Cztery, pięc razy do roku, w sobotnie popołudnie, zapraszamy na wspólną modlitwę do Świętego Jana Pawła II.<br>W Sanktuarium razem z Księdzem Janem Reczkiem i Siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.<br>Msza Święta rozpoczyna się o godz. 17:00, zaś nabożeństwo i uwielbienie jest bezpośrednio po Mszy świętej.<br>Zapraszamy kilka chwil wcześniej na wspólną modlitwę śpiewem!</p><p><br>Najbliższe nabożeństwa:</p><p>&nbsp; &nbsp; - ... luty 2018</p><p>&nbsp; &nbsp; - ... kwiecień 2018</p><p>&nbsp; &nbsp; - ... czerwiec 2018<br></p></blockquote>",
+          "text": "<blockquote><p>Cztery, pięc razy w roku, w sobotnie popołudnia, zapraszamy na wspólną modlitwę u Świętego Jana Pawła II.<br>W Sanktuarium razem z Księdzem Janem Reczkiem i Siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.<br>Msza Święta rozpoczyna się o godz. 17:00, zaś nabożeństwo i uwielbienie jest bezpośrednio po niej.<br>Przybądźcie kilka chwil wcześniej na wspólną modlitwę śpiewem!</p><p><br>Najbliższe nabożeństwa:</p><p>&nbsp; &nbsp; - ... luty 2018</p><p>&nbsp; &nbsp; - ... kwiecień 2018</p><p>&nbsp; &nbsp; - ... czerwiec 2018<br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -839,7 +839,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>U Ojców Pallotynów z reguły, poza drobnymi wyjątkami, jesteśmy w pierwsze soboty miesiąca.<br>Mszą Św a po niej nabożeństwo z modlitwą o uzdrowienie i uwolnienie, wraz ze spewem uwielbienia.<br>Zaczynamy Koronką do Miłosierdzia Bożego, już przed godz. 15.</p><p>Zapraszamy kilka chwil wcześniej na wspólną modlitwę śpiewem!<br><br></p><p>Ważne! Całe wydarzenie modlitewne jest transmitowane przez Internetowe Pollotyńskie radio - www.palotti.fm</p><p>Zapraszamy wszystkich, aby również w tej formie włączali się we wspólną modlitwę.<br>Jeśli chcesz dołączyć do transmisji on-line kliknij <a href=\"http://pallotti.fm/\" target=\"_blank\">tutaj</a></p><p><br></p><p>Najbliższe nabożeństwa:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 7 stycznia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 lutego 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 marca 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 8 kwietnia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 5 maja 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 2 czerwca 2018 (sobota)</p>",
+          "text": "<p>U Ojców Pallotynów z reguły, poza drobnymi wyjątkami, modlimy się w pierwsze soboty miesiąca.<br>Mszą Św. a po niej nabożeństwo z modlitwą o uzdrowienie i uwolnienie - wraz ze śpiewem uwielbienia.<br>Zaczynamy Koronką do Miłosierdzia Bożego już przed godz. 15.</p><p>Zachęcamy do wcześniejszego przybycia na wspólną modlitwę śpiewem jeszcze przed rozpoczęciem nabożeństwa!<br><br></p><p>Ważne! Całe wydarzenie modlitewne jest transmitowane przez internetowe pallotyńskie radio - www.palotti.fm</p><p>Wszystkich, którzy nie mogą przybyć osobiście, zapraszamy do skorzystanie z tej możliwości i w ten sposób włączyli się we wspólną modlitwę.<br>Jeśli chcesz dołączyć do transmisji on-line kliknij <a href=\"http://pallotti.fm/\" target=\"_blank\">tutaj</a></p><p><br></p><p>Najbliższe nabożeństwa:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 7 stycznia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 lutego 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 marca 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 8 kwietnia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 5 maja 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 2 czerwca 2018 (sobota)</p>",
           "_tags": [
             "Theme"
           ],
@@ -891,7 +891,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Napisz do nas...<br>",
-          "subtitle": "Wysyłając wiadomość wyrażasz zgodę na objęcie modlitwą przez wspólnotę Promień Chwały.<br>Zaś od czasu do czasu na odebranie naszych aktualności z życia wspólnoty.",
+          "subtitle": "Wysyłając wiadomość, wyrażasz zgodę na objęcie modlitwą przez wspólnotę Promień Chwały.<br>Zaś od czasu do czasu na odebranie aktualności z życia Wspólnoty.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
           "form": {
             "action": "pmo@o2.pl",
@@ -973,8 +973,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text1": "<strong>Adresy</strong><br>\nSanktuarium Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br>\n<strong>Contacts</strong><br>\nEmail: posluga@promienchwaly.pl<br>\n<br>Indywidualna Modlitwa Wstawiennicza - więcej<br>Email: modlitwa@poczta.fm",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "pmo@o2.pl",
