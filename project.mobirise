@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 43,
+    "uniqCompNum": 46,
     "versionPublish": "4.4.0"
   },
   "pages": {
@@ -271,10 +271,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header3-17\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -282,6 +282,39 @@
           ],
           "_name": "features3",
           "_anchor": "features3-j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Promień Chwały",
+          "meta": "posługa uwielbienia - kim jesteśmy?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-19"
         },
         {
           "_styles": {
@@ -586,7 +619,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-800x531-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "",
@@ -773,7 +806,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-13\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" data-toolbar=\"-mbrBtnMove\">DOŁĄCZ DO MODLITWY</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-13\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO MODLITWY</a>",
           "_tags": [
             "Theme"
           ],
@@ -852,7 +885,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-x\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?<br></a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2017/11/04/msza-z-modlitwa-o-uzdrowienie-kanal-2/\" data-toolbar=\"-mbrBtnMove\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-x\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?<br></a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2017/11/04/msza-z-modlitwa-o-uzdrowienie-kanal-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
           "_tags": [
             "Theme"
           ],
