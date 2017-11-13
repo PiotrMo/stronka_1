@@ -529,11 +529,19 @@ h6,
 #msg-box2-14 .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#content5-1a .mbr-section-title,
+#content5-1a p {
+  color: #fff;
+}
+#content5-1a .mbr-section-title {
+  text-align: center;
+}
 #form1-3 .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-3 .mbr-section-title {
   font-size: 46px;
+  color: #ffffff;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
