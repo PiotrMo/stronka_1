@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 52,
+    "uniqCompNum": 54,
     "versionPublish": "4.4.0"
   },
   "pages": {
@@ -106,10 +106,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -550,7 +552,7 @@
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
-            "filter": true,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -627,7 +629,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-800x531-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "",
@@ -638,7 +640,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531-800x531.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -922,6 +924,9 @@
             },
             ".mbr-section-title": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_params": {
@@ -943,12 +948,12 @@
             "overlayOpacity": 0.5
           },
           "title": "TEKSTY MODLITW",
-          "caption": "",
+          "caption": "<p>Te same, które możemy znaleźć na rozdawanych kartonikach z terminami nabożeństw</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-1a"
+          "_anchor": "content5-1g"
         },
         {
           "_params": {
@@ -976,6 +981,25 @@
           ],
           "_name": "content6",
           "_anchor": "content6-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>INDYWIDUALNA MODLITWA WSTAWIENNICZA</b></p><p><br></p><p>- Zawsze sostaje poprzedzona osobistym przygotowaniem - refleksją i modlitwą<br>z pomocą książki \"To Jezus leczy złamanych na duchu\"</p><p><br></p><p>- Zgłoszenia pocztą elektroniczną na adres:</p><p><a href=\"mailto:modlitwa@poczta.fm\">modlitwa@poczta.fm</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1h",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -1077,8 +1101,8 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam...</a>",
-          "text1": "<strong>Adresy</strong><br>\nSanktuarium Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br>\n<strong>Contacts</strong><br>\nEmail: posluga@promienchwaly.pl<br>\n<br>Indywidualna Modlitwa Wstawiennicza - więcej<br>Email: modlitwa@poczta.fm",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li>Wspólnota \"Misericordia\" w Krakowie</li><li>Wspólnota \"Przemienienia\" w Krakowie</li></ul>",
+          "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br>\n<strong>Contacts</strong><br>\nEmail: posluga@promienchwaly.pl<br>\n<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "pmo@o2.pl",
@@ -1209,10 +1233,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
