@@ -231,7 +231,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/to-jezus-leczy-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rne-dary-to-jezus-314x210.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
