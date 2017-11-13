@@ -944,7 +944,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
           "title": "TEKSTY MODLITW",
@@ -988,7 +988,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b><br></b></p><p><b>INDYWIDUALNA MODLITWA WSTAWIENNICZA</b></p><p><br></p><p>- Zawsze sostaje poprzedzona osobistym przygotowaniem - refleksją i modlitwą<br>z pomocą książki \"To Jezus leczy złamanych na duchu\"</p><p><br></p><p>- Zgłoszenia pocztą elektroniczną na adres:</p><p><a href=\"mailto:modlitwa@poczta.fm\">modlitwa@poczta.fm</a></p><p><br></p>",
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>INDYWIDUALNA MODLITWA WSTAWIENNICZA</b></p><p><br></p><p>- Zawsze sostaje poprzedzona osobistym przygotowaniem - refleksją i modlitwą<br>z pomocą książki \"To Jezus leczy złamanych na duchu\"</p><p><br></p><p>- Zgłoszenia pocztą elektroniczną na adres:</p><p><a href=\"mailto:modlitwa@poczta.fm\">modlitwa@poczta.fm</a></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
