@@ -279,9 +279,9 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#header3-17\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#features3-j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://vincentinum.misjonarze.org/?p=2062\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content1-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content5-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -305,7 +305,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Promień Chwały",
+          "title": "<br>Promień Chwały",
           "meta": "posługa uwielbienia - kim jesteśmy?",
           "_tags": [
             "Theme"
