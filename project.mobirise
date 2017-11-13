@@ -1023,13 +1023,13 @@
           "form": {
             "action": "pmo@o2.pl",
             "alerts": {
-              "success": "Dziękujemy za zapisanie! Pamiętamy w modlitwie.\nWspólnota Promień Chwały"
+              "success": "Dziękujemy za wiadomość! Pamiętamy w modlitwie.\nWspólnota Promień Chwały"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Nazwisko"
+                "customTitle": "Imię"
               },
               "email": {
                 "visible": true,
@@ -1039,11 +1039,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Telefon"
+                "customTitle": "Telefon / Parafia"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "OPCJE"
+                "customTitle": "Wiadomość"
               }
             }
           },
