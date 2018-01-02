@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#755858",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -21,19 +21,31 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#2e2e2e"
+        "#f7f7c6",
+        "#c8e3c5",
+        "#ffc870",
+        "#755858",
+        "#9cad9a",
+        "#f5c767",
+        "#ffd55d"
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 54,
-    "versionPublish": "4.4.0"
+    "uniqCompNum": 139,
+    "versionPublish": "4.5.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x113-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Wspólnota Promień Chwały z Krakowa ",
-        "meta_descr": "Wspólnotę \"Promień Chwały\" tworzą ludzie, których łączy jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem...\nUwielbisz z nami?",
+        "meta_descr": "Wspólnotę PROMIEŃ CHWAŁY tworzą ludzie, których łączy jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem...\nUwielbisz z nami?",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -58,22 +70,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#80967e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#94a692!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#9cad9a"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -86,32 +98,34 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#755858!important"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.7",
+            "bgColor": "#9cad9a",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\">VIDEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\" aria-expanded=\"false\">GALERIA<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-298x99.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -135,7 +149,7 @@
             "showArrow": true,
             "imageSize": "45",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/15055712-1261947067210718-445642294820898010-n-800x531.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1436-2-2000x1235.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -144,14 +158,14 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14925403-1244973285574763-6035899867663555022-n-800x531.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1363-2-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -168,7 +182,7 @@
               "size": 250
             }
           },
-          "title": "Wspólnota <br>Promień Chwały",
+          "title": "Wspólnota<br>Promień Chwały",
           "text": "Śpiewem wielbimy Boga!&nbsp;<br>Zapraszamy do wspólnej modlitwy.<br>Uwielbisz z nami?",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
@@ -185,7 +199,7 @@
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -279,7 +293,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#header3-17\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://vincentinum.misjonarze.org/?p=2062\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://vincentinum.misjonarze.org/?p=2163\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#content1-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#content5-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -288,7 +302,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-j"
+          "_anchor": "features3-j",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_styles": {
@@ -296,7 +315,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#2e2e2e"
             }
           },
           "_params": {
@@ -316,10 +336,10 @@
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.</p><p><br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.</p>",
           "_tags": [
             "Theme"
           ],
@@ -367,6 +387,247 @@
           "_anchor": "msg-box8-g"
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13015486-1060299927375434-7815495220307944768-n-800x531.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c8e3c5",
+            "overlayOpacity": "0.9"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-1-jezes-ma-miloscia-494x326.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.youtube.com/watch?v=eCTV-c1NrFk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-2-stworzycielu-493x327.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-3-jezu-jestes-493x329.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Jezus mą miłością jest",
+          "subtitle1": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Stworzycielu Duchu przyjdź",
+          "subtitle2": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Jezu jesteś tu",
+          "subtitle3": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1t"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-3-jezu-jestes-493x329.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-4-pragne-ci-494x326.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Jezu Jesteś tu",
+          "subtitle1": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Pragnę Ci wyśpiewać",
+          "subtitle2": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Czy VIDEO prezentujemy:<br><span style=\"font-weight: normal;\">- jak wyżej, tj. po 2 lub 3 obok siebie&nbsp;</span><br><span style=\"font-weight: normal;\">- czy jak niżej, jedno i opis po prawej</span><br><span style=\"font-weight: normal;\">- dodatkowo, czy na gładkim tle, czy takim zielonym foto?</span><br>do decyzji...",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
@@ -384,9 +645,9 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "50",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/15073301-1261946437210781-7624031101354767536-n-800x531.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -395,7 +656,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#c8e3c5",
             "overlayOpacity": "0.9"
           },
           "media": {
@@ -406,7 +667,7 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/watch?v=eCTV-c1NrFk",
-              "aspectratio": "4:3",
+              "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
@@ -418,7 +679,7 @@
           },
           "title": "Jezus mą miłością jest",
           "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie - Sanktuarium JPII w Krakowie",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "_tags": [
             "Theme"
           ],
@@ -453,7 +714,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#c8e3c5",
             "overlayOpacity": "0.9"
           },
           "media": {
@@ -464,7 +725,7 @@
             "video": {
               "active": true,
               "src": "https://www.youtube.com/watch?v=cSXrFthRUyY",
-              "aspectratio": "4:3",
+              "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
@@ -476,7 +737,7 @@
           },
           "title": "Stworzycielu Duchu przyjdź",
           "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie<br> i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
           "_tags": [
             "Theme"
           ],
@@ -511,7 +772,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
+            "overlayColor": "#c8e3c5",
             "overlayOpacity": "0.9"
           },
           "media": {
@@ -534,12 +795,32 @@
           },
           "title": "Jezu jesteś tu",
           "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
           "_anchor": "header6-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Nasza fotogaleria",
+          "meta": "Prezentacja losowa",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y"
         },
         {
           "_inherit": "gallery1",
@@ -678,8 +959,8 @@
             "bgColorRadio": false,
             "bgColor": "#fff",
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#ffc870",
+            "overlayOpacity": "0.7"
           },
           "_tags": [
             "Theme"
@@ -755,8 +1036,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0"
           },
           "title": "A może wspólna modlitwa?",
           "text": "<p>Po szczegóły zapraszamy poniżej...</p>",
@@ -768,6 +1049,14 @@
           "_anchor": "msg-box8-10"
         },
         {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -779,7 +1068,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#9cad9a",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -790,12 +1079,12 @@
           },
           "title": "Sanktuarium Jana Pawła II",
           "text": "Na Białych Morzach - Kraków, ul. Totus Tuus 32",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-11\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCEJ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1c\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-z"
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1s"
         },
         {
           "_params": {
@@ -803,7 +1092,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Cztery, pięc razy w roku, <b>w sobotnie popołudnia, zapraszamy na wspólną modlitwę u Świętego Jana Pawła II</b>.\n</p><p>W Sanktuarium razem z Księdzem Janem Reczkiem i siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.\n</p><p><b>Msza Święta rozpoczyna się o godz. 17:00</b>, zaś nabożeństwo i uwielbienie jest bezpośrednio po niej.\n</p><p>Przybądźcie kilka chwil wcześniej na wspólną modlitwę śpiewem!\n</p><p>\n</p><p><br></p><p><b>Najbliższe nabożeństwa</b>:\n</p><p>&nbsp; &nbsp; - ... luty 2018\n</p><p>&nbsp; &nbsp; - ... kwiecień 2018\n</p><p>&nbsp; &nbsp; - ... czerwiec 2018</p>",
+          "text": "<p><br></p><p>Cztery, pięc razy w roku, <b>w sobotnie popołudnia, zapraszamy na wspólną modlitwę u Świętego Jana Pawła II</b>.\n</p><p>W Sanktuarium razem z Księdzem Janem Reczkiem i siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.\n</p><p><b>Msza Święta rozpoczyna się o godz. 17:00</b>, zaś nabożeństwo i uwielbienie jest bezpośrednio po niej.\n</p><p>Przybądźcie kilka chwil wcześniej na wspólną modlitwę śpiewem!\n</p><p>\n</p><p><br></p><p><b>Najbliższe nabożeństwa</b>:\n</p><p>&nbsp; &nbsp;<span style=\"font-size: 1.07rem;\">&nbsp;- 10 lutego 2018</span></p><p>&nbsp; &nbsp; - 28 kwietnia 2018\n</p><p>&nbsp; &nbsp; - 9 czerwca 2018</p><p>&nbsp; &nbsp; - 8 września 2018</p><p>&nbsp; &nbsp; - 24 listopada 2018<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -844,21 +1133,21 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#9cad9a",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -869,7 +1158,7 @@
           },
           "title": "Parafia MB Pocieszenia",
           "text": "Pallotyni, Kraków ul. Bulwarowa 15a",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-15\" data-toolbar=\"-mbrBtnMove\">TAK, CHCĘ WIEDZIEĆ WIĘCEJ<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-15\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -882,7 +1171,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>U Ojców Pallotynów</b> z reguły, poza drobnymi wyjątkami, <b>modlimy się w pierwsze soboty miesiąca</b>.<br>Mszą Św. a po niej nabożeństwo z modlitwą o uzdrowienie i uwolnienie - wraz ze śpiewem uwielbienia.<br><b>Zaczynamy Koronką do Miłosierdzia Bożego już przed godz. 15.</b></p><p>Zachęcamy do wcześniejszego przybycia na wspólną modlitwę śpiewem jeszcze przed rozpoczęciem nabożeństwa!<br><br></p><p>Ważne! <b>Całe wydarzenie modlitewne jest transmitowane przez internetowe pallotyńskie radio - www.palotti.fm</b></p><p>Wszystkich, którzy nie mogą przybyć osobiście, zapraszamy do skorzystania z tej możliwości i w ten sposób włączyli się <br>we wspólną modlitwę.<br></p><p><br>Jeśli chcesz dołączyć do transmisji on-line kliknij <a href=\"http://pallotti.fm/\" target=\"_blank\">tutaj</a></p><p><br></p><p><b>Najbliższe nabożeństwa:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 7 stycznia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 lutego 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 marca 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 8 kwietnia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 5 maja 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 2 czerwca 2018 (sobota)</p>",
+          "text": "<p><b><br></b></p><p><b>U Ojców Pallotynów</b> z reguły, poza drobnymi wyjątkami, <b>modlimy się w pierwsze soboty miesiąca</b>.<br>Mszą Św. a po niej nabożeństwo z modlitwą o uzdrowienie i uwolnienie - wraz ze śpiewem uwielbienia.<br><b>Zaczynamy Koronką do Miłosierdzia Bożego już przed godz. 15.</b></p><p>Zachęcamy do wcześniejszego przybycia na wspólną modlitwę śpiewem jeszcze przed rozpoczęciem nabożeństwa!<br><br></p><p>Ważne! <b>Całe wydarzenie modlitewne jest transmitowane przez internetowe pallotyńskie radio - www.palotti.fm</b></p><p>Wszystkich, którzy nie mogą przybyć osobiście, zapraszamy do skorzystania z tej możliwości i w ten sposób włączyli się <br>we wspólną modlitwę.<br></p><p><br>Jeśli chcesz dołączyć do transmisji on-line kliknij <a href=\"http://pallotti.fm/\" target=\"_blank\">tutaj</a></p><p><br></p><p><b>Najbliższe nabożeństwa:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 7 stycznia 2018 (<b>niedziela</b>)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 lutego 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 marca 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 8 kwietnia 2018 (<b>niedziela</b>)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 5 maja 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 2 czerwca 2018 (sobota)</p>",
           "_tags": [
             "Theme"
           ],
@@ -932,8 +1221,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
@@ -944,8 +1233,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#9cad9a",
+            "overlayOpacity": "0.9"
           },
           "title": "TEKSTY MODLITW",
           "caption": "<p>Te same, które możemy znaleźć na rozdawanych kartonikach z terminami nabożeństw</p>",
@@ -957,7 +1246,7 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -1012,7 +1301,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#9cad9a",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1059,6 +1348,12 @@
             ".mbr-section-title": {
               "font-size": "46px",
               "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           }
         },
@@ -1095,12 +1390,12 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#9cad9a",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam...</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam<br></a>",
           "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br><strong>Kontakty</strong><br>Wspólnota Promień Chwały<br>Email: posluga@promienchwaly.pl<br>\n<br>Wspólnota Misericordia<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
           "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
           "form": {
@@ -1145,7 +1440,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#323232",
+            "bgColor": "#755858",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1163,7 +1458,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Page 1",
-        "order": 1
+        "order": 4
       },
       "components": [
         {
@@ -1185,22 +1480,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1214,26 +1509,29 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#282828",
-            "fontSize": "0.7",
+            "bgColor": "#9cad9a",
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE SIĘ MODLIMY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-g\">VIDEO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-b\">GALERIA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">AKTUALNOŚCI</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\">VIDEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\" aria-expanded=\"false\">GALERIA<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-298x99.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -1374,6 +1672,1633 @@
           ],
           "_name": "slider2",
           "_anchor": "slider2-8"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Page 2",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#615753"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#746964!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7c706b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#9cad9a",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\">VIDEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\" aria-expanded=\"false\">GALERIA<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-298x99.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9cad9a",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam<br></a>",
+          "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br><strong>Kontakty</strong><br>Wspólnota Promień Chwały<br>Email: posluga@promienchwaly.pl<br>\n<br>Wspólnota Misericordia<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "pmo@o2.pl",
+            "alerts": {
+              "success": "Dziękujemy za wysłanie wiadomości. \nOdpowiemy najszybciej jak to będzie możliwe.\nSzczęść Boże!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#755858",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Promień Chwały.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1r"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "U Bila",
+        "meta_descr": "Wspólnotę PROMIEŃ CHWAŁY tworzą ludzie, których łączy jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem...\nUwielbisz z nami?",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#80967e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#94a692!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#9cad9a"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#755858!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#9cad9a",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" target=\"_blank\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://pallotti.fm/kategoria/msza-z-modlitwa-o-uzdrowienie/\" target=\"_blank\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery4-b\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\">VIDEO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-b\" aria-expanded=\"false\">GALERIA<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\">Modlitwa wstawiennicza</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts4-q\">Kontakt</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-298x99.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PROMIEŃ CHWAŁY<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-22"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "45",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1436-2-2000x1235.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.1"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1363-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Wspólnota <br>Promień Chwały",
+          "text": "Śpiewem wielbimy Boga!&nbsp;<br>Zapraszamy do wspólnej modlitwy.<br>Uwielbisz z nami?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-j\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-23"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1451-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-24"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-2021-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/xjan5-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/s.stasia2-600x398.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rne-dary-to-jezus-314x210.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Promień Chwały",
+          "subtitle1": "Posługa uwielbienia - kim jesteśmy?",
+          "caption1": "Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem...",
+          "title2": "Ksiądz Jan Reczek",
+          "subtitle2": "Nasz opiekun duchowy",
+          "caption2": "Ksiądz Jan Reczek jest cenionym rekolekcjonistą i kaznodzieją.&nbsp;<br>W swoich licznych inicjatywach duszpasterskich towarzyszy ludziom poszukującym pokoju, uzdrowienia, rozeznania. Jest autorem licznych publikacji oraz członkiem rady programowej miesięcznika \"Egzorcysta\" - czasopisma podejmującego temat zagrożeń duchowych...",
+          "title3": "Grupa modlitewna",
+          "subtitle3": "Modlitwa wstawiennicza<br> i Służba Liturgiczna",
+          "caption3": "Ksiądz Jan wraz z Siostrą Stasią<br>(panią Stanisławą Dąbrowską), osobą świecką obdarzoną obficie przez Ducha Świętego charyzmatem poznania, a także członkami krakowskich wspólnot \"Misericordia\" oraz \"Przemienienie\", posługują modlitwą wstawienniczą. &nbsp;Ksiądz Jan prowadzi także weekendowe rekolekcje uzdrowienia wewnętrznego...&nbsp;",
+          "title4": "Publikacje",
+          "subtitle4": "Teksty modlitw i wydawnictwa",
+          "caption4": "W tym dziale znajdziesz, Drogi Czytelniku, aktualne informacje na temat publikacji, artykułów, spotkań oraz posługi księdza Jana Reczka i Wspólnoty.<br>Tutaj znajdziesz również teksty modlitw, w których przyzywamy błogosławieństwa z użyciem wody, (soli) egzorcyzmowanej, a także inne pożyteczne teksty...",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#header3-17\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://vincentinum.misjonarze.org/?p=2062\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WIĘCEJ</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content1-1h\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content5-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "features3-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#2e2e2e"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<br>Promień Chwały",
+          "meta": "posługa uwielbienia - kim jesteśmy?",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-26"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "UWIELBIAJ Z NAMI ŚPIEWEM",
+          "text": "<p>Nagrania VIDEO z modlitwy.&nbsp;<br><span style=\"font-size: 1.07rem;\">Promień Chwały!</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-28"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-1-jezes-ma-miloscia-494x326.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.youtube.com/watch?v=eCTV-c1NrFk",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-2-stworzycielu-493x327.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-3-jezu-jestes-493x329.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Jezus mą miłością jest",
+          "subtitle1": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Stworzycielu Duchu przyjdź",
+          "subtitle2": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Jezu jesteś tu",
+          "subtitle3": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-29"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-3-jezu-jestes-493x329.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/film-4-pragne-ci-494x326.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Jezu Jesteś tu",
+          "subtitle1": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Pragnę Ci wyśpiewać",
+          "subtitle2": "Snktuarium JP2 w Krakowie, A.D. 2017",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Pytanie, czy VIDEO j.w. czy j.n. ???",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "24px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "50",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=eCTV-c1NrFk",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Jezus mą miłością jest",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie - Sanktuarium JPII w Krakowie",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2c"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "24px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=cSXrFthRUyY",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Stworzycielu Duchu przyjdź",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie<br> i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2d"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "24px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ccc",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=MxAB4MoNXzc",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Jezu jesteś tu",
+          "text": "Wspólne uwielbienie podczas Mszy Św. z modlitwą o uzdrowienie <br>i uwolnienie -&nbsp;Sanktuarium JPII w Krakowie",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Nasza fotogaleria",
+          "meta": "Prezentacja losowa",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/12794452-1017712224967538-6413045290727808330-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12794452-1017712224967538-6413045290727808330-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16649453-1394967317242025-1675487515928486702-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16649453-1394967317242025-1675487515928486702-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/15073301-1261946437210781-7624031101354767536-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15073301-1261946437210781-7624031101354767536-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16684286-1394967050575385-3687570845817283316-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16684286-1394967050575385-3687570845817283316-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/16684250-1394967583908665-839836554575945314-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16684250-1394967583908665-839836554575945314-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/14925710-1244973172241441-7981392425929334358-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14925710-1244973172241441-7981392425929334358-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531-800x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2g"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "46px"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": "3",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Wspólna modlitwa - Wasze świadectwa",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Monika J.",
+              "authorBio": "User",
+              "text": "<p>\"Coś pięknego, niesamowite przeżycie. Warto było uczestniczyć w tej Mszy Świętej i Nabożeństwie😊\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Małgorzata R.",
+              "authorBio": "User",
+              "text": "<p>\"Uczestniczyłam w tej Mszy Św. i Nabożeństwie 😊 jestem pod ogromnym wrażeniem. ...2 i pół godziny minęło niepostrzeżenie! Cudowna atmosfera modlitwy, a ks. Jana Reczka można tak słuchać nieustannie... Instrumenty muzyczne plus cały zespół wokalny wprowadzają niesamowity nastrój modlitwy i powodują, że chce się tam być, modlić i śpiewać... Chwalić Boga można na różne sposoby, ale śpiewanie ma szczególny urok. Było PIĘKNIE  😊 Dziękuję 😊 ... Jak dobrze, że to mój Kraków ma takie wyjątkowe miejsce, jakim jest Sanktuarium 😊.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Anna S.",
+              "authorBio": "User",
+              "text": "<p>\"Piękna uczta duchowa w cudownym miejscu:-)\"</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-2h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/centrum-jp2-2-997x435.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A może wspólna modlitwa?",
+          "text": "<p>Po szczegóły zapraszamy poniżej...</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c0a375",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Sanktuarium Jana Pawła II",
+          "text": "Na Białych Morzach - Kraków, ul. Totus Tuus 32",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-1c\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2j"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>Cztery, pięc razy w roku, <b>w sobotnie popołudnia, zapraszamy na wspólną modlitwę u Świętego Jana Pawła II</b>.\n</p><p>W Sanktuarium razem z Księdzem Janem Reczkiem i siostrą Stasią modlimy się śpiewem o uzdrowienie i uwolnienie.\n</p><p><b>Msza Święta rozpoczyna się o godz. 17:00</b>, zaś nabożeństwo i uwielbienie jest bezpośrednio po niej.\n</p><p>Przybądźcie kilka chwil wcześniej na wspólną modlitwę śpiewem!\n</p><p>\n</p><p><br></p><p><b>Najbliższe nabożeństwa</b>:\n</p><p>&nbsp; &nbsp; - 25 listopada 2017</p><p>&nbsp; &nbsp; - 10 lutego 2018\n</p><p>&nbsp; &nbsp; - ... kwiecień 2018\n</p><p>&nbsp; &nbsp; - ... czerwiec 2018</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-13\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://www.sanktuariumjp2.pl/nabozenstwo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO MODLITWY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2l"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Kraków Totus Tuus 32",
+              "placeId": "EiVUb3R1cyBUdXVzIDMyLCAzMC02MTAgS3Jha8OzdywgUG9sc2th",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#868585",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Parafia MB Pocieszenia",
+          "text": "Pallotyni, Kraków ul. Bulwarowa 15a",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-15\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b>U Ojców Pallotynów</b> z reguły, poza drobnymi wyjątkami, <b>modlimy się w pierwsze soboty miesiąca</b>.<br>Mszą Św. a po niej nabożeństwo z modlitwą o uzdrowienie i uwolnienie - wraz ze śpiewem uwielbienia.<br><b>Zaczynamy Koronką do Miłosierdzia Bożego już przed godz. 15.</b></p><p>Zachęcamy do wcześniejszego przybycia na wspólną modlitwę śpiewem jeszcze przed rozpoczęciem nabożeństwa!<br><br></p><p>Ważne! <b>Całe wydarzenie modlitewne jest transmitowane przez internetowe pallotyńskie radio - www.palotti.fm</b></p><p>Wszystkich, którzy nie mogą przybyć osobiście, zapraszamy do skorzystania z tej możliwości i w ten sposób włączyli się <br>we wspólną modlitwę.<br></p><p><br>Jeśli chcesz dołączyć do transmisji on-line kliknij <a href=\"http://pallotti.fm/\" target=\"_blank\">tutaj</a></p><p><br></p><p><b>Najbliższe nabożeństwa:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 7 stycznia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 lutego 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 3 marca 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 8 kwietnia 2018 (niedziela)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 5 maja 2018 (sobota)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- 2 czerwca 2018 (sobota)</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#map1-x\" data-toolbar=\"-mbrBtnMove\">JAK DOJECHAĆ?<br></a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2017/11/04/msza-z-modlitwa-o-uzdrowienie-kanal-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2p"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Kościół Rzymskokatolicki Bulwarowa",
+              "placeId": "ChIJRY6OnmtFFkcRCwpdnXPhMqI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "TEKSTY MODLITW",
+          "caption": "<p>Te same, które możemy znaleźć na rozdawanych kartonikach z terminami nabożeństw</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2r"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>PRZYZYWAMY BŁOGOSŁAWIEŃSTWA Z UŻYCIEM WODY (SOLI) EGZORCYZMOWANEJ:</blockquote><blockquote><b>Ojcze nasz...\n</b></blockquote><blockquote><b>Wszechmogący Boże, uświęć to miejsce </b>[to mieszkanie, ten dom]<b> swoją obecnością i napełnij obfitym błogosławieństwem; <br>wszędzie zaś tam, gdzie padną krople tej pobłogosławionej wody </b>[gdzie pozostawiamy tę pobłogosławioną sól]<b>, <br>niech będą powstrzymane ataki i zniweczone zasadzki złego ducha. <br>Prosimy Cię o to przez Chrystusa, Pana naszego. Amen.\n</b></blockquote><blockquote><p>NA KOŃCU MODLITWY:</p><p><br></p><p><b>Niech to miejsce </b>[i jego mieszkańców]<b> błogosławi Bóg Wszechmogący + <br>Ojciec, i Syn, i Duch Święty. Amen.</b></p><p><br></p><p>UŻYWAJĄC TEJ SOLI DO POKARMÓW, DODAJEMY:</p><p><br></p><p><b>Spraw, niech w życiu każdego, kto będzie spożywał tę sól, będą powstrzymane ataki i zniweczone zasadzki złego ducha,&nbsp;<br>przez Chrystusa, Pana naszego. Amen.<br></b></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem;\">Potężna Niebios Królowo i Pani Aniołów!&nbsp;</b><br></p><p><b>Ty, która otrzymałaś od Boga posłannictwo i władzę, by zatrzeć głowę szatana, prosimy Cię pokornie: rozkaż hufcom anielskim, aby ścigały szatanów, stłumiły ich zuchwałość, a zwalczając ich wszędzie - strąciły do piekła. Święci Aniołowie i Archaniołowie brońcie nas i strzeżcie nas. Amen.</b></p>",
+          "text2": "<p><b>Święty Michale Archaniele!<br>Wspomagaj nas w walce, a przeciw niegodziwości i zasadzkom złego ducha bądź naszą obroną. Oby go Bóg pogromić raczył, pokornie o to prosimy, a Ty, Wodzu niebieskich zastępów, szatana i inne złe duchy, które na zgubę dusz ludzkich po tym świecie krążą, mocą bożą strąć do piekła. Amen.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>INDYWIDUALNA MODLITWA WSTAWIENNICZA</b></p><p><br></p><p>- Zawsze sostaje poprzedzona osobistym przygotowaniem - refleksją i modlitwą<br>z pomocą książki \"To Jezus leczy złamanych na duchu\"</p><p><br></p><p>- Zgłoszenia pocztą elektroniczną na adres:</p><p><a href=\"mailto:modlitwa@poczta.fm\">modlitwa@poczta.fm</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content1-2u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#868585",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Napisz do nas...<br>",
+          "subtitle": "Wysyłając wiadomość, wyrażasz zgodę na objęcie modlitwą przez wspólnotę Promień Chwały.<br>Zaś od czasu do czasu na odebranie aktualności z życia Wspólnoty.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
+          "form": {
+            "action": "pmo@o2.pl",
+            "alerts": {
+              "success": "Dziękujemy za wiadomość! Pamiętamy w modlitwie.\nWspólnota Promień Chwały"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefon / Parafia"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "form1-2v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "JEŚLI CHCESZ, PODAJ DALEJ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9cad9a",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam<br></a>",
+          "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br><strong>Kontakty</strong><br>Wspólnota Promień Chwały<br>Email: posluga@promienchwaly.pl<br>\n<br>Wspólnota Misericordia<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "pmo@o2.pl",
+            "alerts": {
+              "success": "Dziękujemy za wysłanie wiadomości. \nOdpowiemy najszybciej jak to będzie możliwe.\nSzczęść Boże!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-2x"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#755858",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 Promień Chwały.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2y"
         }
       ]
     }
