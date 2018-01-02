@@ -70,10 +70,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -112,7 +112,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#9cad9a",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1522,7 +1522,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#9cad9a",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1743,7 +1743,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#9cad9a",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1915,7 +1915,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#9cad9a",
-            "fontSize": "0.9",
+            "fontSize": "1",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
