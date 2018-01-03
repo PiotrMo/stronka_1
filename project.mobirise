@@ -124,8 +124,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo3a-pogrubione-607x122.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
-              "title": ""
+              "link": "index.html#header2-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2551,7 +2552,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo3a-pogrubione-607x122.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2772,7 +2773,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo3a-pogrubione-607x122.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html#header2-1",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2944,8 +2945,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo3a-pogrubione-607x122.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
-              "title": ""
+              "link": "index.html#header2-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -3050,7 +3052,7 @@
             "paddingBottom": 1,
             "bgColor": "#9cad9a"
           },
-          "title": "Poniżej wydażenia, które się odbyły",
+          "title": "Poniżej relacje z wydarzeń minionych",
           "meta": "Promień Chwały - Posługa Uwielbienia",
           "_tags": [
             "Theme"
