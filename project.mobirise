@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 162,
+    "uniqCompNum": 165,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1503,6 +1503,148 @@
           "_anchor": "header3-1x"
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6,
+            "numbersColor": "@primaryColor"
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "001",
+          "number2": "02",
+          "number3": "03",
+          "number4": "04",
+          "media1": {
+            "image": {
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2_bg.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=xyGpSD0hfFE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-extheader7-bg.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-extfeatures12-1.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-4i",
+          "_customCSS": ".mbr-iconfont-features4 {\n  color: undefined !important;\n}\n.wraper {\n  border-color: undefined !important;\n}\n.card-number {\n  color: #755858;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding extFeatures12\" data-rv-view=\"1990\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"mbr-cards-row row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n                <div class=\"wraper\">\n                <div class=\"container\">\n                  <div class=\"card cart-block\">\n                      <div class=\"card-img\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/xyGpSD0hfFE?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n                      <div class=\"card-block\" style=\"margin-top: -70px;\">\n                          <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"126\">001</h3>\n                          <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"127\">Bootstrap 4</h4>\n                          <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"128\">Bootstrap 4 has been noted</h5>\n                          <p class=\"card-text mbr-editable-content\" code-editable-id=\"129\">Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.</p>\n                          \n                      </div>\n                  </div>\n                </div>\n                </div>\n            </div>\n            <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n               <div class=\"wraper\">\n              <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/img-extheader7-bg.jpg\"></div>\n                    <div class=\"card-block\" style=\"margin-top: -70px;\">\n                        <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"130\">02</h3>\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"131\">Responsive</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"132\">One of Bootstrap 4s big points</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"133\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</p>\n                        \n                    </div>\n                </div>\n              </div>\n              </div>\n            </div>\n            <div class=\"mbr-cards-col col-xs-12 col-lg-4\">\n              <div class=\"wraper\">\n              <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/img-extfeatures12-1.jpg\"></div>\n                    <div class=\"card-block\" style=\"margin-top: -70px;\">\n                        <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"134\">03</h3>\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"135\">Web Fonts</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"136\">Google has a highly exhaustive list of fonts</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"137\">Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.</p>\n                        \n                    </div>\n                </div>\n              </div>\n            </div>\n            </div>\n            \n    </div>\n    </div>\n  </div>\n    \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            ".card-number": {
+              "color": "@primaryColor"
+            }
+          }
+        },
+        {
           "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
@@ -2168,38 +2310,6 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/01/07 15:00",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#e9e9e9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "Najbliższa posługa<br>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extCountdown2",
-          "_anchor": "extCountdown2-49",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": 3,
@@ -2694,7 +2804,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam<br></a>",
           "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br><strong>Kontakty</strong><br>Wspólnota Promień Chwały<br>Email: posluga@promienchwaly.pl<br>\n<br>Wspólnota Misericordia<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li>Wspólnota \"Przemienienia\" w Krakowie</li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "pmo@o2.pl",
@@ -2928,6 +3038,32 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#9cad9a"
+          },
+          "title": "Poniżej wydażenia, które się odbyły",
+          "meta": "Promień Chwały - Posługa Uwielbienia",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
               "text-align": "center",
               "color": "#2e2e2e"
             }
@@ -2938,8 +3074,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<br>Promień Chwały",
-          "meta": "posługa uwielbienia - kim jesteśmy?",
+          "title": "Seminarium Odnowy Wiary",
+          "meta": "Prowadzący: Witek Wilk<br>19 grudnia 2017",
           "_tags": [
             "Theme"
           ],
@@ -2952,7 +3088,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii, a nawet miejscowości, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Przed świętami Bożego Narodzenia, we wtorek 19 grudnia 2017 było nam dane prowadzić modlitwę śpiewem na kończącym spotkaniu 7-tygodniowe Seminarium Odnowy Wiary w Krakowie, Nowym Bieżanowie. Parafia pw Najświętszej Rodziny.<br>Prowadzącym owe rekolekcje był Witek Wilk, na poniższym nagraniu prowadzący uwielbienie.<br>Całe seminarium, wraz ze wszystkimi konferencjami dostepne jest pod adresem wydarzenia www.seminariumodnowywiary.pl.<br>Zapraszamy do wspólnej modlitwy.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2960,44 +3096,64 @@
           "_anchor": "content1-27"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showTitle": false,
+            "showText": false,
+            "showForm": false,
+            "inverse": false,
+            "imageSize": "51",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/14581530-1244973252241433-8042415465188296620-n-800x531.jpg",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1373-2000x1333.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#c8e3c5",
+            "overlayOpacity": "0.8"
           },
-          "title": "UWIELBIAJ Z NAMI ŚPIEWEM",
-          "text": "<p>Nagrania VIDEO z modlitwy.&nbsp;<br><span style=\"font-size: 1.07rem;\">Promień Chwały!</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm2.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=Y9DGRrURsoE",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH FORM",
+          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "form": {
+            "action": "pmo@o2.pl",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-28"
+          "_name": "extForm2",
+          "_anchor": "extForm2-4k"
         },
         {
           "_params": {
@@ -3216,26 +3372,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-2a"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Pytanie, czy VIDEO j.w. czy j.n. ???",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2b"
         },
         {
           "_inherit": "header2",
@@ -3597,7 +3733,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Tak, wysyłam<br></a>",
           "text1": "<strong>Adresy</strong><br>\nSanktuarium Świętego Jana Pawła II<br>Kraków, ul Totus Tuus 32<br><br>Parafia Księży Pallotynów pw. Matki Bożej Pocieszenia<br>Kraków, ul. Bulwarowa 15<br><br><strong>Kontakty</strong><br>Wspólnota Promień Chwały<br>Email: posluga@promienchwaly.pl<br>\n<br>Wspólnota Misericordia<br>Indywidualna Modlitwa Wstawiennicza - <a href=\"index.html#content1-1h\">więcej</a><br>Email: modlitwa@poczta.fm",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>&nbsp;Linki</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://www.sanktuariumjp2.pl/\" target=\"_blank\">Sanktuarium Świętego Jana Pawła II</a></li><li><a class=\"text-white\" href=\"http://pallotti.fm/\" target=\"_blank\">Radio Pallotti.fm</a></li><li><a class=\"text-white\" href=\"http://www.anielskimiecz.pl\" target=\"_blank\">Rycerstwo Św. Michała Archanioła w Krakowie</a></li><li><a href=\"https://www.miesiecznikegzorcysta.pl/\" target=\"_blank\">Miesięcznik \"Egzorcysta\"</a></li><li><a href=\"http://misericordia-wzgorza.webnode.com/\" target=\"_blank\">Wspólnota \"Misericordia\" w Krakowie</a></li><li>Wspólnota \"Przemienienia\" w Krakowie</li><li><a href=\"http://odnowa.mistrzejowice.net/\" target=\"_blank\">Wspólnota \"Przemienienia\" w Krakowie</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "pmo@o2.pl",
