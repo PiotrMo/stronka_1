@@ -2755,7 +2755,7 @@
             },
             "overlay": true,
             "overlayColor": "#c8e3c5",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -2980,7 +2980,7 @@
             "showArrow": true,
             "imageSize": "60",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1455-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -3038,7 +3038,7 @@
             "showArrow": true,
             "imageSize": "60",
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1520-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
