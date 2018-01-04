@@ -748,6 +748,9 @@ h6,
 #extCounters1-4h .mbr-section-title {
   color: #fff;
 }
+#extCounters1-4h H3 {
+  color: #ffffff;
+}
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
   color: #fff;
@@ -757,34 +760,6 @@ h6,
 }
 #msg-box8-g .lead P {
   color: #ffffff;
-}
-#header3-1x .mbr-section-title,
-#header3-1x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1x .mbr-section-title {
-  text-align: center;
-}
-#header3-1x .mbr-section-title SPAN {
-  font-size: 25px;
-}
-#extFeatures12-4i .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-4i .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-4i .card-number {
-  color: #755858;
-}
-#extFeatures12-4i .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-4i .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-4i .card-number {
-  color: #755858;
 }
 #header6-2 .mbr-section-title {
   color: #28262b;
@@ -861,6 +836,12 @@ h6,
 }
 #form1-3 .btn {
   font-size: 14px;
+}
+#contacts4-q UL {
+  color: #ffffff;
+}
+#footer1-1f P {
+  color: #ffffff;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
@@ -954,11 +935,11 @@ h6,
   color: #ffffff;
 }
 #menu-1p .link {
-  font-size: 1rem;
+  font-size: 0.95rem;
 }
 #menu-1p .dropdown-item,
 #menu-1p .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 1.029rem;
 }
 #menu-1p .link:hover,
 #menu-1p .dropdown-item:hover,
@@ -999,6 +980,12 @@ h6,
 }
 #menu-1p .btn {
   font-size: 15px;
+}
+#contacts4-1q UL {
+  color: #ffffff;
+}
+#footer1-1r P {
+  color: #ffffff;
 }
 #menu-22 .hide-buttons .nav-btn {
   display: none !important;
@@ -1066,10 +1053,10 @@ h6,
   font-size: 15px;
 }
 #extHeader13-4e H4 {
-  font-size: 20px;
+  font-size: 18px;
 }
 #extHeader13-4e H3 {
-  font-size: 46px;
+  font-size: 36px;
 }
 #extHeader13-4e P {
   font-size: 18px;
@@ -1079,10 +1066,10 @@ h6,
   text-align: center;
 }
 #header3-2b .mbr-section-title {
-  color: #ffffff;
+  color: #755858;
 }
 #header3-2b .mbr-section-subtitle {
-  color: #ffffff;
+  color: #755858;
 }
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
@@ -1090,7 +1077,31 @@ h6,
 }
 #header3-26 .mbr-section-title {
   text-align: center;
-  color: #2e2e2e;
+  color: #ffffff;
+}
+#header3-26 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#extFeatures12-4y .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-4y .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-4y .card-number {
+  color: #755858;
+}
+#header3-4x .mbr-section-title,
+#header3-4x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4x .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+  font-size: 46px;
+}
+#header3-4x .mbr-section-subtitle {
+  color: #ffffff;
 }
 #header6-2c .mbr-section-title {
   color: #28262b;
@@ -1114,7 +1125,6 @@ h6,
 #header6-2e .mbr-section-text {
   color: #565656;
 }
-#header3-2f .mbr-section-title,
-#header3-2f .mbr-section-subtitle {
-  text-align: center;
+#footer1-2y P {
+  color: #ffffff;
 }
