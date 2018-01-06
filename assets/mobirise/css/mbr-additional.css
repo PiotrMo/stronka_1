@@ -751,6 +751,10 @@ h6,
 #extCounters1-4h H3 {
   color: #ffffff;
 }
+#msg-box3-4z .mbr-section-title,
+#msg-box3-4z p {
+  color: #000;
+}
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
   color: #fff;

@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 179,
+    "uniqCompNum": 180,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1211,7 +1211,7 @@
           "subtitle3": "w naszym śpiewniku",
           "subtitle4": "w przybliżeniu tyle razem mamy lat<br>",
           "number1": "12",
-          "number2": "41<br>",
+          "number2": "37",
           "number3": "287",
           "number4": "563",
           "alias": "mobirise3-blocks/components",
@@ -1220,6 +1220,41 @@
           ],
           "_name": "extCounters1",
           "_anchor": "extCounters1-4h"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BLOG<br>",
+          "text": "<p>PROMIEŃ CHWAŁY<br><b>AKTUALNOŚCI i PRZESZŁOŚĆ</b></p><p><i>Poniżej prezentujemy:</i><br>- dwa główne miejsca, wraz z terminami, w których modlimy się cyklicznie<br><span style=\"font-size: 1.07rem;\">- kilka video nagrań, co ważne, to nie są studyjne nagrania, nie są doskonałę technicznie<br></span><span style=\"font-size: 1.07rem;\"><br><b>To nasza modlitwa i Ciebie zapraszamy do modlitwy razem z nami!</b></span><span style=\"font-size: 1.07rem;\"><br></span></p><p>Jeśli chcesz być na bieżąco, zobaczyć czym żyje posługa uwielbienia,<br>kiedy najbliższe spotkanie modlitewne, modlić się z nami, <br>posłuchać i obejrzeć ostatnie nagrania...<br><b>ZAPRASZAMY do śledzenia naszego mini BLOGU.</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page3.html#extHeader13-4e\" data-toolbar=\"-mbrBtnMove\">PRZECHODZĘ do sekcji BLOG</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4z"
         },
         {
           "_styles": {
