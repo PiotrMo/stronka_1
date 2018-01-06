@@ -787,17 +787,6 @@ h6,
 #header6-h .mbr-section-text {
   color: #565656;
 }
-#header3-1y .mbr-section-title,
-#header3-1y .mbr-section-subtitle {
-  text-align: center;
-}
-#testimonials3-d .mbr-section-title {
-  color: #efefef;
-  font-size: 46px;
-}
-#testimonials3-d .mbr-author-name {
-  color: #ccc;
-}
 #msg-box8-10 .mbr-section-title,
 #msg-box8-10 p {
   color: #fff;
@@ -813,6 +802,17 @@ h6,
 }
 #msg-box2-14 .mbr-section-subtitle {
   color: #ffffff;
+}
+#header3-1y .mbr-section-title,
+#header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#testimonials3-d .mbr-section-title {
+  color: #efefef;
+  font-size: 46px;
+}
+#testimonials3-d .mbr-author-name {
+  color: #ccc;
 }
 #content5-1g .mbr-section-title,
 #content5-1g p {
