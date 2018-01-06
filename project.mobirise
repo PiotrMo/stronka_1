@@ -317,12 +317,15 @@
             ".mbr-section-title": {
               "text-align": "center",
               "color": "#2e2e2e"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgColor": "#c8e3c5"
           },
           "title": "<br>Promień Chwały",
@@ -339,7 +342,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"Promień Chwały\" tworzą ludzie, którzy w różnych momentach swojego życia zostali zaproszeni przez Jezusa do posługi uwielbienia. Pochodzimy z różnych parafii z prawie całej Małopolski, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </p><p>Pozwól, drogi nasz czytelniku, że w tym momencie przedstawimy się Tobie, każdy z imienia oraz roli, jaką pełni w posłudze uwielbienia.<br></p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wspólnotę \"<b>Promień Chwały</b>\" tworzą ludzie, którzy w różnych momentach swojego życia <b>zostali zaproszeni przez Jezusa</b> do posługi uwielbienia. Pochodzimy z różnych parafii z prawie całej Małopolski, ale łączy nas jedno: pragnienie uwielbienia naszego Zbawiciela śpiewem, grą a nade wszystko sercem.&nbsp;<span style=\"font-size: 1.07rem;\">Pod przewodnictwem kapłana Archidiecezji Krakowskiej, ks. Jana Reczka, uczestniczymy w nabożeństwi z modlitwą o uzdrowienie i uwolnienie.</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naszą wielką radością i zaszczytem jest możliwość poruszania serc i pociąganie wiernych do najpiękniejszej modlitwy - <br>- UWIELBIENIA TEGO, KTÓRY JEST GODZIEN WSZELKIEJ CHWAŁY. I za to Chwała Panu! Amen!<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </p><p>Pozwól, drogi nasz czytelniku, że <b>w tym momencie przedstawimy się Tobie, każdy z imienia</b> oraz roli, jaką pełni w posłudze uwielbienia.<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1248,7 +1251,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BLOG<br>",
-          "text": "<p>PROMIEŃ CHWAŁY<br><b>AKTUALNOŚCI i PRZESZŁOŚĆ</b></p><p>Poniżej prezentujemy:<br>- dwa główne miejsca, wraz z terminami, w których modlimy się cyklicznie<br><span style=\"font-size: 1.07rem;\">- kilka video nagrań, co ważne, to nie są studyjne nagrania, nie są doskonałę technicznie<br></span><span style=\"font-size: 1.07rem;\"><br><b>To nasza modlitwa i Ciebie zapraszamy do modlitwy razem z nami!</b></span><span style=\"font-size: 1.07rem;\"><br></span></p><p>Jeśli chcesz być na bieżąco, zobaczyć czym żyje posługa uwielbienia,<br>kiedy najbliższe spotkanie modlitewne, modlić się z nami, <br>posłuchać i obejrzeć ostatnie nagrania...<br><b>ZAPRASZAMY do śledzenia naszego mini BLOGU.</b></p>",
+          "text": "<p>PROMIEŃ CHWAŁY<br><b>AKTUALNOŚCI i PRZESZŁOŚĆ</b></p><p>Poniżej prezentujemy:<br>- dwa główne miejsca, wraz z terminami, w których modlimy się cyklicznie<br><span style=\"font-size: 1.07rem;\">- kilka video nagrań, co ważne, to nie są studyjne nagrania, nie są doskonałe technicznie<br></span><span style=\"font-size: 1.07rem;\"><br><b>To nasza modlitwa i Ciebie zapraszamy do modlitwy razem z nami!</b></span><span style=\"font-size: 1.07rem;\"><br></span></p><p>Jeśli chcesz być na bieżąco, zobaczyć, czym żyje posługa uwielbienia,<br>kiedy najbliższe spotkanie modlitewne, a także modlić się z nami, <br>posłuchać i obejrzeć ostatnie nagrania...<br><b>ZAPRASZAMY do śledzenia naszego MINIBLOGA.</b></p>",
           "_tags": [
             "Theme"
           ],
