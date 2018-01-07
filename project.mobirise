@@ -742,7 +742,7 @@
             "showIcons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -813,7 +813,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1437-mag-sabi-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img_1437_mag_sabi-600x399.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
