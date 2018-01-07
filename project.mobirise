@@ -376,7 +376,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1512viola-beti-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1490-wiola-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -409,7 +409,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-5363-marek-600x381.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1483-beti-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -420,7 +420,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1380-grzegorz-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5363-marek-600x381.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -431,7 +431,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1373-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1380-grzegorz-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -442,7 +442,7 @@
           },
           "title": "OUR TEAM",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "title1": "Wiola i Beata",
+          "title1": "Wiola<br>",
           "subtitle1": "wokal",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Ewa i Agnieszka",
@@ -451,14 +451,14 @@
           "title3": "Dorota",
           "subtitle3": "wokal",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Marek",
-          "subtitle4": "gitara, wokal",
+          "title4": "Beata",
+          "subtitle4": "wokal",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Grzegorz",
-          "subtitle5": "bas, wokal",
+          "title5": "Marek",
+          "subtitle5": "gitara, wokal",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Tadeusz i Marysia",
-          "subtitle6": "skrzypce",
+          "title6": "Grzegorz",
+          "subtitle6": "bas, wokal",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "media1_1": {
             "iconFont": {
@@ -742,7 +742,7 @@
             "showIcons": false,
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -780,7 +780,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1374-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1373-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -791,7 +791,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1374-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -802,7 +802,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1427-piotrm-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/13076849-1060300027375424-4512987935315152371-n-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -813,7 +813,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img_1437_mag_sabi-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1427-piotrm-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -830,17 +830,17 @@
           "title2": "Stefan",
           "subtitle2": "flet, perkusjonalia, wokal",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Piotr",
-          "subtitle3": "harmonijka, djembe, wokal",
+          "title3": "Marysia i Tadeusz",
+          "subtitle3": "skrzypce",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Wicek",
-          "subtitle4": "trąbka, djembe, wokal",
+          "title4": "Piotr",
+          "subtitle4": "harmonijka, djembe, wokal",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Piotr",
-          "subtitle5": "piano, bas, wokal",
+          "title5": "Wicek",
+          "subtitle5": "trąbka, djembe, wokal",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Magda i Sabina",
-          "subtitle6": "wokal",
+          "title6": "Piotr",
+          "subtitle6": "piano, wokal<br><br>",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "media1_1": {
             "iconFont": {
