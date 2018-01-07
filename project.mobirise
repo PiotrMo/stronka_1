@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 180,
+    "uniqCompNum": 181,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2707,6 +2707,19 @@
               "font-size": "18px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2018/01/06/transmisja-mszy-z-modlitwa-o-uzdrowienie-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-50"
         },
         {
           "_styles": {
