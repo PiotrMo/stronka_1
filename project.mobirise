@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-03_2049",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2714,7 +2714,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2018/01/06/transmisja-mszy-z-modlitwa-o-uzdrowienie-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#msg-box2-14\" data-toolbar=\"-mbrBtnMove\">WIĘCEJ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://pallotti.fm/2018/01/06/transmisja-mszy-z-modlitwa-o-uzdrowienie-2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOŁĄCZ DO TRANSMISJI OnLine</a>",
           "_tags": [
             "Theme"
           ],
