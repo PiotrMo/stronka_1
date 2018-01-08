@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-03_2049",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -117,7 +117,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-q\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1373,7 +1373,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
+            "inverse": true,
             "showArrow": true,
             "imageSize": "60",
             "bgImageRadio": true,
@@ -1879,6 +1879,73 @@
           "_anchor": "testimonials3-d"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#ffffff",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#9cad9a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Chcesz się podzielić?<br>",
+          "subtitle": "Podziel sie z nami Twoimi odczuciami, świadectwem, doświadczeniem wspólnej modlitwy.<br>Jeśli możesz, dodaj w jednym zdaniu, jak trafiłeś na tę stronę i skąd jesteś?<br>Wysyłając wiadomość, wyrażasz zgodę na objęcie modlitwą przez wspólnotę Promień Chwały.<br>Zaś od czasu do czasu na odebranie aktualności z życia Wspólnoty.<br>Wszystkie poniższe dane są dobrowolne.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
+          "form": {
+            "action": "pmo@o2.pl",
+            "alerts": {
+              "success": "Dziękujemy za wiadomość! Pamiętamy w modlitwie.\nWspólnota Promień Chwały"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Imię"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "E-mail"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Inne (tel / parafia / miejscowość / kraj)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-3",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -1964,80 +2031,13 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9cad9a",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Napisz do nas...<br>",
-          "subtitle": "Podziel sie z nami informacją, jak trafiłeś na tą stronę.<br>Wysyłając wiadomość, wyrażasz zgodę na objęcie modlitwą przez wspólnotę Promień Chwały.<br>Zaś od czasu do czasu na odebranie aktualności z życia Wspólnoty.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ</a>",
-          "form": {
-            "action": "pmo@o2.pl",
-            "alerts": {
-              "success": "Dziękujemy za wiadomość! Pamiętamy w modlitwie.\nWspólnota Promień Chwały"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Imię"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "E-mail"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefon / Parafia"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Wiadomość"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-3",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-size": "46px",
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#c8e3c5",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -2209,7 +2209,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-q\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2430,7 +2430,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-q\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2612,7 +2612,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-j\">O NAS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">GDZIE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-1s\">Kraków, Sanktuarium Jana Pawła II<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box2-14\">Kraków ul. Bulwarowa (Pallotyni)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://odnowa.mistrzejowice.net/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Mistrzejowice św. Maksymiliana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://krakow.karmelici.pl/parafia/porzadek-mszy-sw/\" aria-expanded=\"false\" target=\"_blank\">Kraków, Karmelici, Na Piasku (Kalmelicka 19)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html#extHeader13-4e\" aria-expanded=\"false\">Inne miejsca...</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MULTIMEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">Video</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Audio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1y\" aria-expanded=\"false\">Galeria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\" aria-expanded=\"false\">Śpiewnik</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#form1-3\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">POSŁUGA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">BLOG - z życia wspólnoty - Promień Chwały</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content5-1g\" aria-expanded=\"false\">Teksty modlitw</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content1-1h\" aria-expanded=\"false\">Modlitwa wstawiennicza (Wspólnota Misericordia)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-q\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-3\">ZAPISZ SIĘ<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2643,7 +2643,7 @@
             "inverse": false,
             "showArrow": true,
             "showFormTitle": true,
-            "countdown": "2018/01/07 14:45",
+            "countdown": "2018/02/03 14:45",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1369-2000x1333.jpg",
             "parallax": false,
@@ -2659,7 +2659,7 @@
           },
           "title": "Najbliższa posługa śpiewem",
           "title2": "Chcesz otrzymać przypomnienie?<br>Zostaw nam kontakt:",
-          "text": "Dołącz do nas, zapraszamy do wspólnej modlitwy śpiewem.<br>Poniższy zegar odlicza czas do najbliższego Uwielbienia.<br><br>7 stycznia 2017 (niedziela), g. 14:45<br>Pallotyni, Kraków, ul. Bulwarowa 15a",
+          "text": "Dołącz do nas, zapraszamy do wspólnej modlitwy śpiewem.<br>Poniższy zegar odlicza czas do najbliższego Uwielbienia.<br><br>3 lutego 2017 (sobota), g. 14:45<br>Pallotyni, Kraków, ul. Bulwarowa 15a",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">TAK, WYSYŁAM</a>",
           "form": {
@@ -2867,7 +2867,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": 3,
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
@@ -3084,7 +3084,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": false,
+            "inverse": true,
             "showArrow": true,
             "imageSize": "60",
             "bgImageRadio": true,
