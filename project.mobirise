@@ -2162,22 +2162,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#80967e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#94a692!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#9cad9a"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2190,7 +2190,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#755858!important"
             },
             ".btn": {
               "font-size": "15px"
@@ -2780,7 +2780,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </p><p>Przed Świętami Bożego Narodzenia, we wtorek 19 grudnia 2017, było nam dane prowadzić modlitwę śpiewem na zakończenie 7-ygodniowego Seminarium Odnowy Wiary w parafii pw. Najświętszej Rodziny w Krakowie - Nowym Bieżanowie. Prowadzącym owe rekolekcje był Witek Wilk, znany świecki ewangelizator. </p><p><br></p><p>Poniższe nagranie to fragment wołania uczestników seminarium o wylanie darów Ducha Świętego. Modlitwie przewodniczył Witek.<br>Całe seminarium wraz ze wszystkimi konferencjami dostępne jest pod adresem&nbsp;<a href=\"http://www.seminariumodnowywiary.pl\" target=\"_blank\">www.seminariumodnowywiary.pl</a>.<br>Warto odsłuchać i przemodlić przekazane tam treści.</p>",
+          "text": "<p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </p><p>Przed Świętami Bożego Narodzenia, we wtorek 19 grudnia 2017, było nam dane prowadzić modlitwę śpiewem na zakończenie </p><p>7-tygodniowego Seminarium Odnowy Wiary w parafii pw. Najświętszej Rodziny w Krakowie - Nowym Bieżanowie. </p><p>Prowadzącym owe rekolekcje był Witek Wilk, znany świecki ewangelizator. </p><p><br></p><p>Poniższe nagranie to fragment wołania uczestników seminarium o wylanie darów Ducha Świętego. Modlitwie przewodniczył Witek.<br>Całe seminarium wraz ze wszystkimi konferencjami dostępne jest pod adresem&nbsp;<a href=\"http://www.seminariumodnowywiary.pl\" target=\"_blank\">www.seminariumodnowywiary.pl</a>.<br>Warto odsłuchać i przemodlić przekazane tam treści.</p>",
           "_tags": [
             "Theme"
           ],
