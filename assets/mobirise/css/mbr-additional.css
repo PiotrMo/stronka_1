@@ -1078,6 +1078,26 @@ h6,
 #header3-2b .mbr-section-subtitle {
   color: #755858;
 }
+#header3-51 .mbr-section-title,
+#header3-51 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-51 .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+  font-size: 46px;
+}
+#header3-51 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header6-52 .mbr-section-title {
+  color: #28262b;
+  font-size: 24px;
+}
+#header6-52 .mbr-section-text {
+  color: #565656;
+  font-size: 16px;
+}
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;

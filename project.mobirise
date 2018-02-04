@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 181,
+    "uniqCompNum": 183,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2750,6 +2750,93 @@
           ],
           "_name": "header3",
           "_anchor": "header3-2b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#9cad9a"
+          },
+          "title": "Msza Św z modlitwą o uzdrowienie i uwolnienie",
+          "meta": "Prowadzący: x.Jan Reczek<br><br>Pallotyni, Parafia MB Pocieszenia, Kraków, ul. Bulwarowa<br>3 lutego 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-51"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "24px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "60",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bulwarowa-kosciol-500x296.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c8e3c5",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/2HDj0vghKCM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Czym się Panu odpłacę (fragment)",
+          "text": "Wspólne uwielbienie podczas Mszy Św. <br>z modlitwą o uzdrowienie i uwolnienie<br><br>Parafia MB Pocieszenia, Pallotyni<br>Kraków, ul. Bulwarowa",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-52"
         },
         {
           "_styles": {
