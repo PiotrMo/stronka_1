@@ -1090,13 +1090,21 @@ h6,
 #header3-51 .mbr-section-subtitle {
   color: #ffffff;
 }
+#header6-53 .mbr-section-title {
+  color: #28262b;
+  font-size: 20px;
+}
+#header6-53 .mbr-section-text {
+  color: #565656;
+  font-size: 13px;
+}
 #header6-52 .mbr-section-title {
   color: #28262b;
-  font-size: 24px;
+  font-size: 20px;
 }
 #header6-52 .mbr-section-text {
   color: #565656;
-  font-size: 16px;
+  font-size: 13px;
 }
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
