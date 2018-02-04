@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 184,
+    "uniqCompNum": 186,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2772,7 +2772,7 @@
             "bgColor": "#9cad9a"
           },
           "title": "Msza Św z modlitwą o uzdrowienie i uwolnienie",
-          "meta": "Prowadzący: x.Jan Reczek<br><br>Pallotyni, Parafia MB Pocieszenia, Kraków, ul. Bulwarowa<br>3 lutego 2018",
+          "meta": "Prowadzący: x.Jan Reczek<br><br>Pallotyni, Parafia MB Pocieszenia, Kraków, ul. Bulwarowa<br><b>3 lutego 2018</b>",
           "_tags": [
             "Theme"
           ],
@@ -2904,6 +2904,93 @@
             },
             ".mbr-section-title": {
               "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#9cad9a"
+          },
+          "title": "Msza Św z modlitwą o uzdrowienie i uwolnienie",
+          "meta": "Jeszcze świątecznie i kolędowo, czas po Bożym Narodzeniu, nazajutrz po Objawieniu Pańskim<br>Prowadzący: x.Jan Reczek<br><br>Pallotyni, Parafia MB Pocieszenia, Kraków, ul. Bulwarowa<br><b>7 stycznia 2018</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-54"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b",
+              "font-size": "20px"
+            },
+            ".mbr-section-text": {
+              "color": "#565656",
+              "font-size": "13px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "60",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/zlobek-1000x669.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#c8e3c5",
+            "overlayOpacity": "0.9"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/MHIg54pyyXg",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Bóg się narodził",
+          "text": "Wspólne i radosne śpiewanie po nabożeństwie,<br>Nazajutrz po Objawieniu Pańskim<br><br>Parafia MB Pocieszenia, Pallotyni<br>Kraków, ul. Bulwarowa<br><br>słowa i muzyka: Paweł Orkisz<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#msg-box8-g\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-55"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
               "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
@@ -2917,7 +3004,7 @@
             "bgColor": "#9cad9a"
           },
           "title": "Seminarium Odnowy Wiary",
-          "meta": "Prowadzący: Witek Wilk<br><br>19 grudnia 2017",
+          "meta": "Prowadzący: Witek Wilk<br><br><b>19 grudnia 2017</b>",
           "_tags": [
             "Theme"
           ],
