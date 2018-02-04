@@ -2799,7 +2799,7 @@
             "showArrow": true,
             "imageSize": "60",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bulwarowa-kosciol-500x296.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/styczen2016-msza-z-modl-o-uzdrowienie-770x322.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
