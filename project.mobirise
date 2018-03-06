@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Promień Chwały",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2647,7 +2647,7 @@
             "inverse": false,
             "showArrow": false,
             "showFormTitle": true,
-            "countdown": "2018/03/03 15:00",
+            "countdown": "2018/04/08 15:00",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1369-2000x1333.jpg",
             "parallax": false,
@@ -2663,7 +2663,7 @@
           },
           "title": "Najbliższa posługa śpiewem",
           "title2": "Chcesz otrzymać przypomnienie?<br>Zostaw nam kontakt:",
-          "text": "Dołącz do nas, zapraszamy do wspólnej modlitwy śpiewem.<br>Poniższy zegar odlicza czas do najbliższego Uwielbienia.<br><br><b>3 marca 2018</b> (sobota), <b>g. 15:00</b><br>Parafia MB Pocieszenia, Kraków, ul. Bulwarowa 15",
+          "text": "Dołącz do nas, zapraszamy do wspólnej modlitwy śpiewem.<br>Poniższy zegar odlicza czas do najbliższego Uwielbienia.<br><br><b>8 kwietnia 2018</b> (NIEDZIELA), <b>g. 15:00</b><br>Parafia MB Pocieszenia, Kraków, ul. Bulwarowa 15",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">TAK, WYSYŁAM</a>",
           "form": {
