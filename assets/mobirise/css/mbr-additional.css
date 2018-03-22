@@ -1,6 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -408,9 +411,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #755858;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 .extCountdown1 .number,
 .extCountdown2 .number {
   font-family: 'Montserrat', sans-serif;
@@ -748,16 +748,6 @@ h6,
 #header3-17 .mbr-section-subtitle {
   color: #ffffff;
 }
-#extCounters1-4h .mbr-section-title {
-  color: #fff;
-}
-#extCounters1-4h H3 {
-  color: #ffffff;
-}
-#msg-box3-4z .mbr-section-title,
-#msg-box3-4z p {
-  color: #000;
-}
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
   color: #fff;
@@ -794,21 +784,93 @@ h6,
 #msg-box8-10 p {
   color: #fff;
 }
-#msg-box2-1s .mbr-section-title {
-  color: #fff;
+#header3-5s .mbr-section-title,
+#header3-5s .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box2-1s .mbr-section-subtitle {
+#header3-5s .mbr-section-title {
   color: #ffffff;
 }
-#msg-box2-14 .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-14 .mbr-section-subtitle {
+#header3-5s .mbr-section-subtitle {
   color: #ffffff;
+}
+#extForm3-5q H2 {
+  font-size: 32px;
+}
+#extForm3-5q SPAN {
+  font-size: 16px;
+}
+#extForm3-5q .intro-box h4 {
+  font-size: 18px;
+}
+#extForm3-5q .intro-box h5 P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+#extForm3-5q P {
+  color: #000000;
+}
+#header3-5m .mbr-section-title,
+#header3-5m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5m .mbr-section-title {
+  color: #ffffff;
+}
+#header3-5m .mbr-section-subtitle {
+  color: #ffffff;
+}
+#extForm3-5k H2 {
+  font-size: 32px;
+}
+#extForm3-5k SPAN {
+  font-size: 16px;
+}
+#extForm3-5k .intro-box h4 {
+  font-size: 18px;
+}
+#extForm3-5k .intro-box h5 P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+#extForm3-5k P {
+  color: #000000;
+}
+#header3-5o .mbr-section-title,
+#header3-5o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5o .mbr-section-title {
+  color: #ffffff;
+}
+#header3-5o .mbr-section-subtitle {
+  color: #ffffff;
+}
+#extForm3-5n H2 {
+  font-size: 32px;
+}
+#extForm3-5n SPAN {
+  font-size: 16px;
+}
+#extForm3-5n .intro-box h4 {
+  font-size: 18px;
+}
+#extForm3-5n .intro-box h5 P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+#extForm3-5n P {
+  color: #000000;
 }
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1y .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1y .mbr-section-subtitle {
+  color: #ffffff;
 }
 #testimonials3-d .mbr-section-title {
   color: #efefef;
@@ -869,11 +931,11 @@ h6,
   color: #ffffff;
 }
 #menu-5 .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-5 .dropdown-item,
 #menu-5 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-5 .link:hover,
 #menu-5 .dropdown-item:hover,
@@ -919,9 +981,60 @@ h6,
 #msg-box8-6 p {
   color: #fff;
 }
-#slider2-8 .mbr-section-title,
-#slider2-8 .mbr-section-lead {
-  color: #fff;
+#custom-html-56 .sm2-bar-ui {
+  font-size: 14px;
+}
+#custom-html-56 .sm2-bar-ui .sm2-main-controls,
+#custom-html-56 .sm2-bar-ui .sm2-playlist-drawer {
+  background-color: #ff8040;
+  /* non-RGBA fallback */
+  background-color: rgba(255, 128, 64, 0.78);
+}
+#custom-html-56 .sm2-bar-ui .sm2-inline-texture {
+  background: transparent;
+}
+#extShop1-5f .galleryItem h4:hover {
+  color: #755858;
+}
+#extShop1-5f .mbr-gallery-filter ul li.active {
+  color: #755858;
+}
+#extShop1-5f .mbr-gallery-filter ul li:hover {
+  color: #755858;
+}
+#extShop1-5f .mbr-gallery-filter ul li:before {
+  background: #755858;
+}
+#extShop1-5f .min-toggle:hover,
+#extShop1-5f .max-toggle:hover {
+  background-color: #755858;
+}
+#extShop1-5f .shop-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-5f .categories-titles .mbr-gallery-filter ul li {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-5f .max-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-5f .min-input {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-5f .item-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#extShop1-5f .item-subtitle {
+  font-family: 'Lora', serif;
+}
+#extShop1-5f .card-description {
+  font-family: 'Raleway', sans-serif;
+}
+#extShop1-5f .shop-item-price {
+  font-family: 'Montserrat', sans-serif;
+}
+#extFeatures6-5e .card-img {
+  background-color: #755858 !important;
 }
 #menu-1p .hide-buttons .nav-btn {
   display: none !important;
@@ -942,11 +1055,11 @@ h6,
   color: #ffffff;
 }
 #menu-1p .link {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 #menu-1p .dropdown-item,
 #menu-1p .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.975rem;
 }
 #menu-1p .link:hover,
 #menu-1p .dropdown-item:hover,
@@ -992,194 +1105,5 @@ h6,
   color: #ffffff;
 }
 #footer1-1r P {
-  color: #ffffff;
-}
-#menu-22 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-22 .navbar-caption {
-  color: #ffffff;
-  font-size: 16px;
-}
-#menu-22 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-22 .close-icon::before,
-#menu-22 .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-22 .link,
-#menu-22 .dropdown-item {
-  color: #ffffff;
-}
-#menu-22 .link {
-  font-size: 0.9rem;
-}
-#menu-22 .dropdown-item,
-#menu-22 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
-}
-#menu-22 .link:hover,
-#menu-22 .dropdown-item:hover,
-#menu-22 .link:focus,
-#menu-22 .dropdown-item:focus {
-  color: #755858;
-}
-#menu-22 .link[aria-expanded="true"],
-#menu-22 .dropdown-menu {
-  background: #80967e;
-}
-#menu-22 .nav-dropdown-sm .link:focus,
-#menu-22 .nav-dropdown-sm .link:hover,
-#menu-22 .nav-dropdown-sm .dropdown-item:focus,
-#menu-22 .nav-dropdown-sm .dropdown-item:hover {
-  background: #94a692!important;
-}
-#menu-22 .navbar,
-#menu-22 .nav-dropdown-sm,
-#menu-22 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-22 .nav-dropdown-sm .dropdown-menu {
-  background: #9cad9a;
-}
-#menu-22 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-22 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-22 .bg-color.transparent.opened .link:hover,
-#menu-22 .bg-color.transparent.opened .link:focus {
-  color: #755858;
-}
-#menu-22 .link[aria-expanded="true"],
-#menu-22 .dropdown-item[aria-expanded="true"] {
-  color: #755858!important;
-}
-#menu-22 .btn {
-  font-size: 15px;
-}
-#extHeader13-4e H4 {
-  font-size: 18px;
-}
-#extHeader13-4e H3 {
-  font-size: 36px;
-}
-#extHeader13-4e P {
-  font-size: 18px;
-}
-#header3-2b .mbr-section-title,
-#header3-2b .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2b .mbr-section-title {
-  color: #755858;
-}
-#header3-2b .mbr-section-subtitle {
-  color: #755858;
-}
-#header3-51 .mbr-section-title,
-#header3-51 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-51 .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-  font-size: 46px;
-}
-#header3-51 .mbr-section-subtitle {
-  color: #ffffff;
-}
-#header6-53 .mbr-section-title {
-  color: #28262b;
-  font-size: 20px;
-}
-#header6-53 .mbr-section-text {
-  color: #565656;
-  font-size: 13px;
-}
-#header6-52 .mbr-section-title {
-  color: #28262b;
-  font-size: 20px;
-}
-#header6-52 .mbr-section-text {
-  color: #565656;
-  font-size: 13px;
-}
-#header3-54 .mbr-section-title,
-#header3-54 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-54 .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-  font-size: 46px;
-}
-#header3-54 .mbr-section-subtitle {
-  color: #ffffff;
-}
-#header6-55 .mbr-section-title {
-  color: #28262b;
-  font-size: 20px;
-}
-#header6-55 .mbr-section-text {
-  color: #565656;
-  font-size: 13px;
-}
-#header3-26 .mbr-section-title,
-#header3-26 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-26 .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-#header3-26 .mbr-section-subtitle {
-  color: #ffffff;
-}
-#extFeatures12-4y .mbr-iconfont-features4 {
-  color: undefined !important;
-}
-#extFeatures12-4y .wraper {
-  border-color: undefined !important;
-}
-#extFeatures12-4y .card-number {
-  color: #755858;
-}
-#header3-4x .mbr-section-title,
-#header3-4x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4x .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-  font-size: 46px;
-}
-#header3-4x .mbr-section-subtitle {
-  color: #ffffff;
-}
-#header6-2c .mbr-section-title {
-  color: #28262b;
-  font-size: 24px;
-}
-#header6-2c .mbr-section-text {
-  color: #565656;
-  font-size: 16px;
-}
-#header6-2d .mbr-section-title {
-  color: #28262b;
-  font-size: 24px;
-}
-#header6-2d .mbr-section-text {
-  color: #565656;
-}
-#header6-2e .mbr-section-title {
-  color: #28262b;
-  font-size: 24px;
-}
-#header6-2e .mbr-section-text {
-  color: #565656;
-}
-#footer1-2y P {
   color: #ffffff;
 }
