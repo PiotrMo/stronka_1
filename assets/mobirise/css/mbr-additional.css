@@ -780,6 +780,10 @@ h6,
 #header6-h .mbr-section-text {
   color: #565656;
 }
+#header3-5u .mbr-section-title,
+#header3-5u .mbr-section-subtitle {
+  text-align: center;
+}
 #msg-box8-10 .mbr-section-title,
 #msg-box8-10 p {
   color: #fff;
